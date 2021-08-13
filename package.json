@@ -1,0 +1,19 @@
+{
+  "name": "try-style-dictionary",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "style-dictionary": "style-dictionary",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "style-dictionary": "^3.0.1"
+  },
+  "dependencies": {
+    "tinycolor2": "^1.4.2"
+  }
+}
